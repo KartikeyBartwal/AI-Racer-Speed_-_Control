@@ -4,6 +4,8 @@ import numpy as np
 import sys
 from utils import run_for_n_seconds
 
+np.bool = np.bool_
+
 # List all available environments
 envs = gym.envs.registry.values()
 env_names = [env.id for env in envs]
@@ -15,10 +17,8 @@ env = gym.make('CarRacing-v2', render_mode='human')
 state, info = env.reset()
 start_time = time.time()
 
-action = np.random.uniform(low=-1, high=1, size=(4,))  # Random action vector in the action space
+action = np.random.uniform(low=-1, high=1, size=(3,))  # Random action vector in the action space
 
-# run_for_n_seconds(env, action, 100)
-env = gym.make('CarRacing-v2')
-print("Action space: ",env.action_space)
-print("Your action", action)
+run_for_n_seconds(env, action, 100)
+
 env.close()
