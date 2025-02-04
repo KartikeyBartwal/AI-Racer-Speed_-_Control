@@ -5,3 +5,5 @@
 5) Testing the Car racing game's environment but initially giving random inputs to the car (e.g random level of acceleration, randomly applying brakes, random steering direction, etc.)
 6) Facing the error stating: 'AttributeError: module 'numpy' has no attribute 'bool8'. Did you mean: 'bool'?
 '
+7) Fixed the issue by making changes in the internal numpy library's file itself: replaced np.bool8 with np.bool_
+8) The simulation works but the vehicle is not moving right now.

@@ -2,7 +2,7 @@ import gym
 import time
 import numpy as np
 import sys
-from utils import run_for_n_seconds
+from utils import run_for_n_seconds_random
 
 np.bool = np.bool_
 
@@ -17,8 +17,7 @@ env = gym.make('CarRacing-v2', render_mode='human')
 state, info = env.reset()
 start_time = time.time()
 
-action = np.random.uniform(low=-1, high=1, size=(3,))  # Random action vector in the action space
 
-run_for_n_seconds(env, action, 100)
+run_for_n_seconds_random(env, 100)
 
 env.close()
