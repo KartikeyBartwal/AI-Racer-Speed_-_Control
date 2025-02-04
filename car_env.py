@@ -1,12 +1,13 @@
 import gym
 import time
 import numpy as np
+from utils import has_15_seconds_passed
 import sys
-from utils import run_for_n_seconds
 
 # List all available environments
 envs = gym.envs.registry.values()
 env_names = [env.id for env in envs]
+print(env_names)
 
 # Initialize the CarRacing-v2 environment with render_mode specified
 env = gym.make('CarRacing-v2', render_mode='human')
@@ -15,10 +16,8 @@ env = gym.make('CarRacing-v2', render_mode='human')
 state, info = env.reset()
 start_time = time.time()
 
-action = np.random.uniform(low=-1, high=1, size=(4,))  # Random action vector in the action space
+env.render()
 
-# run_for_n_seconds(env, action, 100)
-env = gym.make('CarRacing-v2')
-print("Action space: ",env.action_space)
-print("Your action", action)
+time.sleep(800)
+
 env.close()
