@@ -1,0 +1,516 @@
+2025-02-05 10:00:53 - Running the 'CarRacing-v2' environment
+2025-02-05 10:00:53 - Starting random action simulation for 100 seconds.
+2025-02-05 10:00:53 - Random action generated: [-0.60166714 -0.48473525  0.        ]
+2025-02-05 10:00:53 - Environment response: Reward: 6.702721088435374, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [ 0.9257046  -0.33057425  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [-0.65742424  0.54092084  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [ 0.60129515 -0.4567219   0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [-0.131662   -0.20768526  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [-0.02940218  0.2127472   0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [-0.54108243  0.63686907  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [0.79929205 0.44800889 0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [ 0.65460053 -0.15842467  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [0.65649932 0.6821164  0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:54 - Random action generated: [0.81442462 0.84676995 0.        ]
+2025-02-05 10:00:54 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.83595659 -0.71167328  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [0.24759722 0.64626207 0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.75185787  0.07507656  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.32015764 -0.49890263  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.64215567 -0.64001065  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: 3.3013605442176877, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.13405331  0.24748066  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.5424321  0.4340868  0.       ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.19923752  0.66218221  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.10346333  0.55311725  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:55 - Random action generated: [-0.00134916 -0.43284312  0.        ]
+2025-02-05 10:00:55 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.14043386 0.49592836 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.13272087 0.42534056 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.07654202 0.70020084 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.46753362 0.78652084 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [-0.6931993  -0.86789997  0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [-0.60046773  0.61549021  0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.50278613 0.27373717 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.52105258 0.54872079 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [-0.55826957  0.2299804   0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [0.5516403  0.76060052 0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:56 - Random action generated: [-0.1348353  -0.46579771  0.        ]
+2025-02-05 10:00:56 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [-0.30612168 -0.55533041  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [-0.91075631  0.64044894  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [-0.31163787  0.88904717  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [-0.57568648  0.5281421   0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [0.02283334 0.36257528 0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [0.12374281 0.76985907 0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [ 0.97749988 -0.28218657  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [0.65090385 0.82048739 0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [0.65136578 0.829917   0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [ 0.27855602 -0.85068349  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:57 - Random action generated: [-0.27892354  0.14743474  0.        ]
+2025-02-05 10:00:57 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [-0.92663526 -0.54143337  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.88436264 -0.1944481   0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [-0.25940486 -0.64117696  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [-0.06275146 -0.25314026  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.95067294 -0.2098358   0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.41969581 -0.36266061  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [-0.46066454 -0.01828753  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.37794443 -0.27724313  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.02692204 -0.26947756  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:58 - Random action generated: [ 0.27226565 -0.54650704  0.        ]
+2025-02-05 10:00:58 - Environment response: Reward: -0.09999999999999964, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.97119932 -0.54873817  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.54200431 -0.34142684  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.26009896 -0.75027352  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.77141183 -0.39089472  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.27860111  0.9185162   0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [0.51341752 0.27948928 0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.7632913  -0.91233857  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.27410629  0.08380886  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.28499666  0.38250164  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.43517046  0.75660142  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:00:59 - Random action generated: [-0.99826801  0.91754933  0.        ]
+2025-02-05 10:00:59 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [-0.22020153  0.29925465  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [ 0.17775662 -0.316384    0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [-0.10128713  0.77541762  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [-0.49399253 -0.76168097  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [ 0.60411132 -0.8188371   0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [ 0.08488198 -0.87276582  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [-0.24685412  0.99709805  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [-0.78801674 -0.17550649  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [0.06162613 0.32775358 0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [ 0.10967303 -0.80967016  0.        ]
+2025-02-05 10:01:00 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:00 - Random action generated: [ 0.34074072 -0.9102297   0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [ 0.83376608 -0.49103573  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [-0.86907482 -0.90254774  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [0.87279534 0.38693009 0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [0.13992476 0.49607685 0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [ 0.33153486 -0.05697003  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [ 0.45982579 -0.3635791   0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [-0.75381449 -0.04769268  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [ 0.33013764 -0.46617346  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [-0.45499246  0.39116678  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:01 - Random action generated: [-0.05890569 -0.92148479  0.        ]
+2025-02-05 10:01:01 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [0.54741643 0.69189578 0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [0.23909544 0.72632833 0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.88037196 -0.38840769  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.12677349  0.38798116  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [0.72204206 0.04331303 0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.75350334 -0.4213192   0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.71905145 -0.43466947  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.37167231 -0.89983727  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [-0.49531126  0.19450198  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [ 0.66538093 -0.33689722  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:02 - Random action generated: [ 0.79259128 -0.29414193  0.        ]
+2025-02-05 10:01:02 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [0.50902511 0.09536534 0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [-0.39612133 -0.68518598  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [ 0.65515605 -0.71060083  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [-0.15745406 -0.33877184  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [ 0.73170868 -0.21427628  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [0.4578016  0.42244565 0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [0.38384826 0.51725848 0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [-0.10368821 -0.18139922  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [ 0.20433286 -0.83189214  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [-0.11091745 -0.50137551  0.        ]
+2025-02-05 10:01:03 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:03 - Random action generated: [-0.74982524  0.42583735  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.83273778 -0.01395021  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [ 0.53191187 -0.20275624  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [ 0.62239216 -0.23851712  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.27554738  0.61325992  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [ 0.18063086 -0.55456913  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [0.39853009 0.89197421 0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.41741547 -0.65407723  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.78890288 -0.97081846  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.1007591  -0.23106549  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:04 - Random action generated: [-0.9806915   0.28138587  0.        ]
+2025-02-05 10:01:04 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [-0.07230447  0.09688687  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [-0.47358446 -0.18130663  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [ 0.08882125 -0.98331315  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [0.04838098 0.73495855 0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [0.48538557 0.94457586 0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [ 0.12261579 -0.80986252  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [0.23532725 0.09679045 0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [ 0.0383418  -0.51513973  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [-0.11715631 -0.72406165  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [-0.57473454 -0.06826122  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:05 - Random action generated: [-0.23518271  0.98248717  0.        ]
+2025-02-05 10:01:05 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [ 0.39408751 -0.01434875  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.69770158  0.71994094  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.32051474  0.97417922  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [0.47429765 0.89950093 0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.62063339  0.69792353  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [0.93069143 0.69240619 0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.04398548  0.0718359   0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.88498191 -0.81657448  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.07810092 -0.12081497  0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [0.79937215 0.97102551 0.        ]
+2025-02-05 10:01:06 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:06 - Random action generated: [-0.94420942  0.13325435  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.23644802  0.36773531  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.06060869  0.06696311  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.41471103  0.15917963  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [0.47559965 0.57036331 0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [0.19526045 0.80574761 0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [0.98089547 0.80747528 0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.59993875 -0.31214627  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.8629334  0.9143365  0.       ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [-0.90748763  0.13064812  0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:07 - Random action generated: [0.3388661  0.38215353 0.        ]
+2025-02-05 10:01:07 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [0.66818532 0.12639763 0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [-0.23898375  0.28818057  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [-0.14782236  0.40750011  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [-0.65918336  0.79764577  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [ 0.25401083 -0.62814205  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [ 0.83732056 -0.88764636  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [0.86303023 0.77934211 0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [-0.5435244   0.52073822  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [0.22253134 0.26517878 0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [0.65167062 0.52274238 0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:08 - Random action generated: [-0.50794378 -0.19773153  0.        ]
+2025-02-05 10:01:08 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.20879636 -0.51601889  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [0.49198051 0.96930137 0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.13260595  0.34063932  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.52678289  0.13327963  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.38391968 -0.3913651   0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [0.95697241 0.63782377 0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.42185936  0.11152955  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [ 0.94235333 -0.24285461  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [ 0.63904352 -0.33523398  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [-0.22140573 -0.77146856  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:09 - Random action generated: [ 0.27496091 -0.22402936  0.        ]
+2025-02-05 10:01:09 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [ 0.70901892 -0.85495125  0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [ 0.5530155  -0.51787667  0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [0.90301266 0.34481868 0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [0.44298207 0.30604754 0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [ 0.62343388 -0.24683486  0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [0.44025039 0.73441307 0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [ 0.77211623 -0.25194432  0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [0.75837282 0.52721134 0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [ 0.29345286 -0.04517204  0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:10 - Random action generated: [0.81066233 0.64464636 0.        ]
+2025-02-05 10:01:10 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [0.81387125 0.40952052 0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [ 0.349841   -0.33193081  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [ 0.60853489 -0.99833708  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [ 0.29974316 -0.34212966  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [0.4163134  0.84250393 0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [ 0.00686875 -0.00037519  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [-0.02886153  0.53717762  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [0.04005681 0.99640221 0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [-0.75147485  0.04617864  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [0.24869635 0.42620615 0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:11 - Random action generated: [-0.02277997 -0.57977686  0.        ]
+2025-02-05 10:01:11 - Environment response: Reward: 6.702721088435375, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.23190733 -0.73842167  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.44149662 -0.55089417  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [ 0.88340393 -0.43785764  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [0.53529879 0.28993475 0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.26038482  0.64535278  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [ 0.87092193 -0.94094547  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.51511466 -0.98345605  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.2963557   0.35269539  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [ 0.74790342 -0.66697486  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.0723635   0.45906259  0.        ]
+2025-02-05 10:01:12 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:12 - Random action generated: [-0.86284929  0.36204167  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [ 0.50654842 -0.23956708  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [-0.69140878  0.58752295  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [0.17464457 0.10155811 0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [ 0.28809345 -0.07218329  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [-0.98478779 -0.47662977  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [0.63902496 0.56881296 0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [ 0.43875647 -0.41105841  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [-0.10420319  0.2727317   0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [-0.17663188 -0.72502425  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:13 - Random action generated: [-0.98263328 -0.03360483  0.        ]
+2025-02-05 10:01:13 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.22680746  0.17779243  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [ 0.12993892 -0.38468401  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.77022368 -0.77879081  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.25380086 -0.70908902  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [0.87022741 0.90440056 0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.86109247  0.78525495  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [ 0.6707006 -0.9871889  0.       ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.65005377  0.10150403  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.91848753  0.37561159  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.49209799  0.78579076  0.        ]
+2025-02-05 10:01:14 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:14 - Random action generated: [-0.04918263 -0.14872797  0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [-0.5352318  0.282936   0.       ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [0.58793942 0.58646784 0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [ 0.88000049 -0.23791712  0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [0.32225892 0.59613556 0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [ 0.0464836  -0.83356231  0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: 3.3013605442176868, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [0.12652969 0.21807506 0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [-0.37836573  0.3261016   0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [0.71378325 0.88982869 0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [ 0.9912562  -0.44886741  0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:15 - Random action generated: [-0.79751132  0.12783978  0.        ]
+2025-02-05 10:01:15 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.1684016   0.76786348  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [0.87202421 0.77165429 0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.65861464  0.68965089  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.72531693  0.84273462  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [0.00551893 0.2621815  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.36693292 -0.30707013  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [ 0.80709601 -0.09278495  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [0.87931652 0.53456152 0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.37934973  0.94670664  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.76122632  0.95506406  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:16 - Random action generated: [-0.22121736 -0.32709289  0.        ]
+2025-02-05 10:01:16 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [ 0.37927396 -0.45866421  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [0.8893102  0.87441343 0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [ 0.10727421 -0.74810782  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [0.23081683 0.64184275 0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [ 0.65872163 -0.34193077  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [-0.83004313  0.89625055  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [-0.39228156 -0.09559368  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [-0.35536663  0.18529464  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [-0.3760563  -0.23067681  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [-0.72214395 -0.54695338  0.        ]
+2025-02-05 10:01:17 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:17 - Random action generated: [ 0.58040555 -0.76260744  0.        ]
+2025-02-05 10:01:18 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
+2025-02-05 10:01:18 - Random action generated: [-0.0907672   0.35126648  0.        ]
+2025-02-05 10:01:18 - Environment response: Reward: -0.10000000000000142, Done: False, Truncated: False, Info: {}
