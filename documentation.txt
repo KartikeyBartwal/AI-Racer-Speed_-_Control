@@ -20,3 +20,5 @@
 19) So far worked on fixing the data type issues and the incompatability with box-2d
 20) Installing box2d-py, for which my linux machine required 'swig'
 21) A reminder that for this project, one also needs to directly use my 'venv' because there are certain internal changes which I have made in the modules of the OpenAI's gym library and NumPy's library to handle certain compatability and type issues
+22) It worked!!! I made multiple changes to car_dynamics.py, car_racing.py, polygon functions and point tuples
+23) Finally, the model is training and I can even view the simulation
