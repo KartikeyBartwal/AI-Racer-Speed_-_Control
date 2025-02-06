@@ -14,3 +14,9 @@
 13) Studying the 'state' N-dimensional vector. This will prove out to be helpful
 14) Starting to think from first principles and am this time thinking of CNN + PPO.
 15) Since I have no labelled data, I am trying to formulate an approach to build and train an agent
+16) Studied stable_baseline3 library to implement PPO reinforcement learning algorithm
+17) Implementing the PPO(cnn_policy) and setting things up
+18) Facing multiple issues in car_dynamics.py. Fixing those internal errors manually
+19) So far worked on fixing the data type issues and the incompatability with box-2d
+20) Installing box2d-py, for which my linux machine required 'swig'
+21) A reminder that for this project, one also needs to directly use my 'venv' because there are certain internal changes which I have made in the modules of the OpenAI's gym library and NumPy's library to handle certain compatability and type issues
