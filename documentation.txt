@@ -9,3 +9,8 @@
 8) The simulation works but the vehicle is not moving right now.
 9) I have set the random values for 'throttle' and 'steering'. It is running
 10) Creating a logging system that creates a new log file every new day and I can revisit my past logs as well
+11) Studying the 'state' return type of my env.action(). Will possibly preprocess this and use it as input for my model
+12) Thinking of DQN + PPO approach to build and train a strong model
+13) Studying the 'state' N-dimensional vector. This will prove out to be helpful
+14) Starting to think from first principles and am this time thinking of CNN + PPO.
+15) Since I have no labelled data, I am trying to formulate an approach to build and train an agent

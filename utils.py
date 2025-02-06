@@ -46,6 +46,9 @@ def run_for_n_seconds(env, action, duration=15, speed_of_simulation=0.05):
         # Perform the action and get the new state and reward
         state, reward, done, truncated, info = env.step(current_action)
 
+        # Log the state (frame) directly
+        logger.debug(f"State (frame) logged: {state}")  # Logs the full state (frame)
+
         logger.debug(f"State updated: Reward: {reward}, Done: {done}, Truncated: {truncated}, Info: {info}")
 
         # Render the environment
@@ -82,6 +85,10 @@ def run_for_n_seconds_random(env, duration=15, speed_of_simulation=0.05):
 
         # Perform the action and get the new state and reward
         state, reward, done, truncated, info = env.step(action)
+
+        logger.debug(f"State Shape {state.shape}")
+        # Log the state (frame) directly
+        logger.debug(f"State (frame) logged: {state}")  # Logs the full state (frame)
 
         logger.debug(f"Environment response: Reward: {reward}, Done: {done}, Truncated: {truncated}, Info: {info}")
 
