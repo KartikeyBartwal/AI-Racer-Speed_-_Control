@@ -20,5 +20,46 @@
 19) So far worked on fixing the data type issues and the incompatability with box-2d
 20) Installing box2d-py, for which my linux machine required 'swig'
 21) A reminder that for this project, one also needs to directly use my 'venv' because there are certain internal changes which I have made in the modules of the OpenAI's gym library and NumPy's library to handle certain compatability and type issues
-22) It worked!!! I made multiple changes to car_dynamics.py, car_racing.py, polygon functions and point tuples
-23) Finally, the model is training and I can even view the simulation
+22) Converted np.float32 and np.float64 types to basic Python float in point coordinates before calling pygame.draw.polygon() to ensure compatibility and avoid potential issues with pygame rendering. Improved code stability by handling different numeric types in the points list.
+23) It worked!!! I made multiple changes to car_dynamics.py, car_racing.py, polygon functions and point tuples
+24) Finally, the model is training and I can even view the simulation
+25) There are actually a new set of issues:
+ a) total_timesteps (the number of actions taken by the agent) is not making any difference
+ b) The simulation starts with the car moving and basically the model running it for around 10 seconds, after which the simulation automatically resets. This happens 3 times and at the end of the third reset and re-run of the simulation, I get these:
+"
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -54.6    |
+| time/              |          |
+|    fps             | 42       |
+|    iterations      | 1        |
+|    time_elapsed    | 48       |
+|    total_timesteps | 2048     |
+---------------------------------
+"
+
+Right after I get these my pygame/simulation gui freezes and I get this pop-up that pygame is not responding
+
+Trying to do something about these
+26) Fixed issue a) by studying the documentation and finding out a new parameter n_steps in PPO's Cnnpolicy.
+The reason why total_timesteps was not making any difference was because technically n_steps of PPO's Cnnpolicy takes  has more priority in deciding
+the number of steps the agent will take. Hence, we need to set both of them actually.
+
+27) Fixed the second issue by further simplification and further cross examination of the working of each 'episode' of an agent
+28)
+'
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -57.5    |
+| time/              |          |
+|    fps             | 47       |
+|    iterations      | 1        |
+|    time_elapsed    | 21       |
+|    total_timesteps | 1000     |
+---------------------------------
+2025-02-07 09:44:22 - ✅ Training Complete. Saving model...
+2025-02-07 09:44:22 - 💾 Model saved as 'ppo_CarRacing-v2_cnn'.
+'
+My next target is to increase the number of iterations and slowly keep improving over the system until the Episode Reward Mean doesn't become in positive and then greater than 100 or so

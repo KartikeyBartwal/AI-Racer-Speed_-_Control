@@ -4,3 +4,4 @@ pygame
 stable-baselines3
 shimmy>=2.0
 box2d-py
+tensorboard
