@@ -12,16 +12,23 @@ logger.info("Logger initialized successfully.")
 
 # Initialize the CarRacing-v2 environment with render_mode specified
 logger.info("Initializing CarRacing-v2 environment...")
-env = gym.make('CarRacing-v2', render_mode='human')
+env = gym.make('CarRacing-v2')
 logger.info("Environment initialized successfully.")
 
 # Initialize PPO with CNN policy
 logger.info("Initializing PPO model with CnnPolicy...")
-model = PPO('CnnPolicy', env, verbose=2, tensorboard_log = "./ppo_logs", batch_size = 2, n_steps = 1000)
+model = PPO('CnnPolicy', env, verbose=2, tensorboard_log="./ppo_logs", batch_size=64, n_steps=1000)
 
-logger.info("Starting training loop...")
-model.learn(total_timesteps=1000)  # Train PPO for 1000 steps
+# Number of iterations
+num_iterations = 100
+timesteps_per_iteration = 10000
 
-logger.info("✅ Training Complete. Saving model...")
-model.save("ppo_CarRacing-v2_cnn")
-logger.info("💾 Model saved as 'ppo_CarRacing-v2_cnn'.")
+logger.info(f"Starting {num_iterations} training iterations...")
+
+for i in range(1, num_iterations + 1):
+    logger.info(f"🚀 Starting Iteration {i}/{num_iterations}...")
+
+    model.learn(total_timesteps=timesteps_per_iteration)
+
+logger.info("🏁 Training Complete. All iterations finished.")
+model.save("ppo_CarRacing-v2_cnn_final")  # Save final trained model

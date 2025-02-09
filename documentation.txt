@@ -63,3 +63,6 @@ the number of steps the agent will take. Hence, we need to set both of them actu
 2025-02-07 09:44:22 - 💾 Model saved as 'ppo_CarRacing-v2_cnn'.
 '
 My next target is to increase the number of iterations and slowly keep improving over the system until the Episode Reward Mean doesn't become in positive and then greater than 100 or so
+29) It still freezes. Trying to change render_mode in gym.make() method
+30) - Replacing `gym` with `gymnasium`, removing `render_mode='human'`, increasing `batch_size` to 64 and `n_steps` to 2048, reducing logging verbosity, optimizing logs to prevent PyCharm freeze, and ensuring model checkpoints are saving correctly—improving stability, performance, and training efficiency while preventing crashes.
+31) It was due to me trying to visualize the training parallely using PyCharm. Hence, I closed that.
