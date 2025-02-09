@@ -66,3 +66,6 @@ My next target is to increase the number of iterations and slowly keep improving
 29) It still freezes. Trying to change render_mode in gym.make() method
 30) - Replacing `gym` with `gymnasium`, removing `render_mode='human'`, increasing `batch_size` to 64 and `n_steps` to 2048, reducing logging verbosity, optimizing logs to prevent PyCharm freeze, and ensuring model checkpoints are saving correctly—improving stability, performance, and training efficiency while preventing crashes.
 31) It was due to me trying to visualize the training parallely using PyCharm. Hence, I closed that.
+32) I want to make sure that every model training is unique, and its name also includes the ep_reward_mean value. Tell me a trick to make sure every single training that I do, creates a completely new model which is saved uniquely (ensuring no training is lost) and I can see its ep_reward_mean value
+33) I trained the model with a batch size of 128, training_steps of 10000 for 100 iterations. It did not save but its logs were. I carried out some
+statistical analysis on the results of the logs to test the model's performance in each iteration. The results are in 'Model training statistical analysis.ipynb'

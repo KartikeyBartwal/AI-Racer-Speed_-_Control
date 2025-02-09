@@ -27,3 +27,1344 @@
 2025-02-09 13:14:39 - 🚀 Starting Iteration 2/3...
 2025-02-09 13:15:19 - 🚀 Starting Iteration 3/3...
 2025-02-09 13:15:58 - 🏁 Training Complete. All iterations finished.
+2025-02-09 13:23:56 - Logger initialized successfully.
+2025-02-09 13:23:56 - Initializing CarRacing-v2 environment...
+2025-02-09 13:23:57 - Environment initialized successfully.
+2025-02-09 13:23:57 - Initializing PPO model with CnnPolicy...
+2025-02-09 13:23:58 - Starting 100 training iterations...
+2025-02-09 13:23:58 - 🚀 Starting Iteration 1/100...
+2025-02-09 13:25:52 - Logger initialized successfully.
+2025-02-09 13:25:52 - Initializing CarRacing-v2 environment...
+2025-02-09 13:25:52 - Environment initialized successfully.
+2025-02-09 13:25:52 - Initializing PPO model with CnnPolicy...
+2025-02-09 13:25:53 - Starting 100 training iterations...
+2025-02-09 13:25:53 - 🚀 Starting Iteration 1/100...
+2025-02-09 13:26:15 - Logger initialized successfully.
+2025-02-09 13:26:15 - Initializing CarRacing-v2 environment...
+2025-02-09 13:26:16 - Environment initialized successfully.
+2025-02-09 13:26:16 - Initializing PPO model with CnnPolicy...
+2025-02-09 13:26:16 - Starting 100 training iterations...
+2025-02-09 13:26:16 - 🚀 Starting Iteration 1/100...
+2025-02-09 13:26:55 - Logger initialized successfully.
+2025-02-09 13:26:55 - Initializing CarRacing-v2 environment...
+2025-02-09 13:26:55 - Environment initialized successfully.
+2025-02-09 13:26:55 - Initializing PPO model with CnnPolicy...
+2025-02-09 13:26:56 - Starting 100 training iterations...
+2025-02-09 13:26:56 - 🚀 Starting Iteration 1/100...
+2025-02-09 13:30:06 - 🚀 Starting Iteration 2/100...
+2025-02-09 13:33:05 - 🚀 Starting Iteration 3/100...
+2025-02-09 13:36:02 - 🚀 Starting Iteration 4/100...
+2025-02-09 13:37:28 - Logger initialized successfully.
+2025-02-09 13:37:28 - Initializing CarRacing-v2 environment...
+2025-02-09 13:37:28 - Environment initialized successfully.
+2025-02-09 13:37:28 - Initializing PPO model with CnnPolicy...
+2025-02-09 13:37:29 - Starting 100 training iterations...
+2025-02-09 13:37:29 - 🚀 Starting Iteration 1/100...
+2025-02-09 13:38:09 - 🚀 Starting Iteration 2/100...
+2025-02-09 13:38:48 - 🚀 Starting Iteration 3/100...
+2025-02-09 13:39:24 - 🚀 Starting Iteration 4/100...
+2025-02-09 13:40:01 - 🚀 Starting Iteration 5/100...
+2025-02-09 13:40:37 - 🚀 Starting Iteration 6/100...
+2025-02-09 13:41:12 - 🚀 Starting Iteration 7/100...
+2025-02-09 13:41:47 - 🚀 Starting Iteration 8/100...
+2025-02-09 13:42:22 - 🚀 Starting Iteration 9/100...
+2025-02-09 13:42:58 - 🚀 Starting Iteration 10/100...
+2025-02-09 13:43:34 - 🚀 Starting Iteration 11/100...
+2025-02-09 13:44:10 - 🚀 Starting Iteration 12/100...
+2025-02-09 13:44:45 - 🚀 Starting Iteration 13/100...
+2025-02-09 13:45:20 - 🚀 Starting Iteration 14/100...
+2025-02-09 13:45:55 - 🚀 Starting Iteration 15/100...
+2025-02-09 13:46:30 - 🚀 Starting Iteration 16/100...
+2025-02-09 13:47:06 - 🚀 Starting Iteration 17/100...
+2025-02-09 13:47:41 - 🚀 Starting Iteration 18/100...
+2025-02-09 13:48:16 - 🚀 Starting Iteration 19/100...
+2025-02-09 13:48:51 - 🚀 Starting Iteration 20/100...
+2025-02-09 13:49:27 - 🚀 Starting Iteration 21/100...
+2025-02-09 13:50:02 - 🚀 Starting Iteration 22/100...
+2025-02-09 13:50:38 - 🚀 Starting Iteration 23/100...
+2025-02-09 13:51:14 - 🚀 Starting Iteration 24/100...
+2025-02-09 13:51:50 - 🚀 Starting Iteration 25/100...
+2025-02-09 13:52:26 - 🚀 Starting Iteration 26/100...
+2025-02-09 13:53:02 - 🚀 Starting Iteration 27/100...
+2025-02-09 13:53:37 - 🚀 Starting Iteration 28/100...
+2025-02-09 13:54:12 - 🚀 Starting Iteration 29/100...
+2025-02-09 13:54:47 - 🚀 Starting Iteration 30/100...
+2025-02-09 13:55:22 - 🚀 Starting Iteration 31/100...
+2025-02-09 13:55:58 - 🚀 Starting Iteration 32/100...
+2025-02-09 13:56:34 - 🚀 Starting Iteration 33/100...
+2025-02-09 13:57:10 - 🚀 Starting Iteration 34/100...
+2025-02-09 13:57:46 - 🚀 Starting Iteration 35/100...
+2025-02-09 13:58:23 - 🚀 Starting Iteration 36/100...
+2025-02-09 13:58:59 - 🚀 Starting Iteration 37/100...
+2025-02-09 13:59:35 - 🚀 Starting Iteration 38/100...
+2025-02-09 14:00:11 - 🚀 Starting Iteration 39/100...
+2025-02-09 14:00:46 - 🚀 Starting Iteration 40/100...
+2025-02-09 14:01:22 - 🚀 Starting Iteration 41/100...
+2025-02-09 14:01:58 - 🚀 Starting Iteration 42/100...
+2025-02-09 14:02:35 - 🚀 Starting Iteration 43/100...
+2025-02-09 14:03:09 - 🚀 Starting Iteration 44/100...
+2025-02-09 14:03:46 - 🚀 Starting Iteration 45/100...
+2025-02-09 14:04:21 - 🚀 Starting Iteration 46/100...
+2025-02-09 14:04:57 - 🚀 Starting Iteration 47/100...
+2025-02-09 14:05:32 - 🚀 Starting Iteration 48/100...
+2025-02-09 14:06:07 - 🚀 Starting Iteration 49/100...
+2025-02-09 14:06:43 - 🚀 Starting Iteration 50/100...
+2025-02-09 14:07:19 - 🚀 Starting Iteration 51/100...
+2025-02-09 14:07:54 - 🚀 Starting Iteration 52/100...
+2025-02-09 14:08:30 - 🚀 Starting Iteration 53/100...
+2025-02-09 14:09:07 - 🚀 Starting Iteration 54/100...
+2025-02-09 14:09:43 - 🚀 Starting Iteration 55/100...
+2025-02-09 14:10:19 - 🚀 Starting Iteration 56/100...
+2025-02-09 14:10:55 - 🚀 Starting Iteration 57/100...
+2025-02-09 14:11:31 - 🚀 Starting Iteration 58/100...
+2025-02-09 14:12:07 - 🚀 Starting Iteration 59/100...
+2025-02-09 14:12:42 - 🚀 Starting Iteration 60/100...
+2025-02-09 14:13:17 - 🚀 Starting Iteration 61/100...
+2025-02-09 14:13:52 - 🚀 Starting Iteration 62/100...
+2025-02-09 14:14:28 - 🚀 Starting Iteration 63/100...
+2025-02-09 14:15:05 - 🚀 Starting Iteration 64/100...
+2025-02-09 14:15:41 - 🚀 Starting Iteration 65/100...
+2025-02-09 14:16:17 - 🚀 Starting Iteration 66/100...
+2025-02-09 14:16:53 - 🚀 Starting Iteration 67/100...
+2025-02-09 14:17:30 - 🚀 Starting Iteration 68/100...
+2025-02-09 14:18:07 - 🚀 Starting Iteration 69/100...
+2025-02-09 14:18:43 - 🚀 Starting Iteration 70/100...
+2025-02-09 14:19:19 - 🚀 Starting Iteration 71/100...
+2025-02-09 14:19:54 - 🚀 Starting Iteration 72/100...
+2025-02-09 14:20:32 - 🚀 Starting Iteration 73/100...
+2025-02-09 14:21:09 - 🚀 Starting Iteration 74/100...
+2025-02-09 14:21:45 - 🚀 Starting Iteration 75/100...
+2025-02-09 14:22:21 - 🚀 Starting Iteration 76/100...
+2025-02-09 14:22:58 - 🚀 Starting Iteration 77/100...
+2025-02-09 14:23:33 - 🚀 Starting Iteration 78/100...
+2025-02-09 14:24:08 - 🚀 Starting Iteration 79/100...
+2025-02-09 14:24:44 - 🚀 Starting Iteration 80/100...
+2025-02-09 14:25:20 - 🚀 Starting Iteration 81/100...
+2025-02-09 14:25:56 - 🚀 Starting Iteration 82/100...
+2025-02-09 14:26:33 - 🚀 Starting Iteration 83/100...
+2025-02-09 14:27:10 - 🚀 Starting Iteration 84/100...
+2025-02-09 14:27:46 - 🚀 Starting Iteration 85/100...
+2025-02-09 14:28:21 - 🚀 Starting Iteration 86/100...
+2025-02-09 14:28:57 - 🚀 Starting Iteration 87/100...
+2025-02-09 14:29:33 - 🚀 Starting Iteration 88/100...
+2025-02-09 14:30:09 - 🚀 Starting Iteration 89/100...
+2025-02-09 14:30:45 - 🚀 Starting Iteration 90/100...
+2025-02-09 14:31:20 - 🚀 Starting Iteration 91/100...
+2025-02-09 14:31:56 - 🚀 Starting Iteration 92/100...
+2025-02-09 14:32:32 - 🚀 Starting Iteration 93/100...
+2025-02-09 14:33:07 - 🚀 Starting Iteration 94/100...
+2025-02-09 14:33:44 - 🚀 Starting Iteration 95/100...
+2025-02-09 14:34:20 - 🚀 Starting Iteration 96/100...
+2025-02-09 14:34:55 - 🚀 Starting Iteration 97/100...
+2025-02-09 14:35:33 - 🚀 Starting Iteration 98/100...
+2025-02-09 14:36:10 - 🚀 Starting Iteration 99/100...
+2025-02-09 14:36:45 - 🚀 Starting Iteration 100/100...
+2025-02-09 14:37:21 - 🏁 Training Complete. All iterations finished.
+"
+/home/kartikey-bartwal/Reinforcement Learning Project/venv/lib/python3.12/site-packages/stable_baselines3/common/vec_env/patch_gym.py:49: UserWarning: You provided an OpenAI Gym environment. We strongly recommend transitioning to Gymnasium environments. Stable-Baselines3 is automatically wrapping your environments in a compatibility layer, which could potentially cause issues.
+  warnings.warn(
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Wrapping the env in a VecTransposeImage.
+2025-02-09 13:37:29 - Starting 100 training iterations...
+2025-02-09 13:37:29 - 🚀 Starting Iteration 1/100...
+Logging to ./ppo_logs/PPO_31
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -57.7    |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:38:09 - 🚀 Starting Iteration 2/100...
+Logging to ./ppo_logs/PPO_32
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -49.6    |
+| time/              |          |
+|    fps             | 75       |
+|    iterations      | 1        |
+|    time_elapsed    | 27       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:38:48 - 🚀 Starting Iteration 3/100...
+Logging to ./ppo_logs/PPO_33
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -50.7    |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:39:24 - 🚀 Starting Iteration 4/100...
+Logging to ./ppo_logs/PPO_34
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -51.2    |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:40:01 - 🚀 Starting Iteration 5/100...
+Logging to ./ppo_logs/PPO_35
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -56.8    |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:40:37 - 🚀 Starting Iteration 6/100...
+Logging to ./ppo_logs/PPO_36
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -41.1    |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:41:12 - 🚀 Starting Iteration 7/100...
+Logging to ./ppo_logs/PPO_37
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -39.7    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:41:47 - 🚀 Starting Iteration 8/100...
+Logging to ./ppo_logs/PPO_38
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -30.5    |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:42:22 - 🚀 Starting Iteration 9/100...
+Logging to ./ppo_logs/PPO_39
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -19.8    |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:42:58 - 🚀 Starting Iteration 10/100...
+Logging to ./ppo_logs/PPO_40
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -29      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:43:34 - 🚀 Starting Iteration 11/100...
+Logging to ./ppo_logs/PPO_41
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -45.2    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:44:10 - 🚀 Starting Iteration 12/100...
+Logging to ./ppo_logs/PPO_42
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -32.4    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:44:45 - 🚀 Starting Iteration 13/100...
+Logging to ./ppo_logs/PPO_43
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -43.1    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:45:20 - 🚀 Starting Iteration 14/100...
+Logging to ./ppo_logs/PPO_44
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -24.2    |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:45:55 - 🚀 Starting Iteration 15/100...
+Logging to ./ppo_logs/PPO_45
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -27.9    |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:46:30 - 🚀 Starting Iteration 16/100...
+Logging to ./ppo_logs/PPO_46
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -43      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:47:06 - 🚀 Starting Iteration 17/100...
+Logging to ./ppo_logs/PPO_47
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -33.7    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:47:41 - 🚀 Starting Iteration 18/100...
+Logging to ./ppo_logs/PPO_48
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -55.8    |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:48:16 - 🚀 Starting Iteration 19/100...
+Logging to ./ppo_logs/PPO_49
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -49.3    |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:48:51 - 🚀 Starting Iteration 20/100...
+Logging to ./ppo_logs/PPO_50
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -47.9    |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:49:27 - 🚀 Starting Iteration 21/100...
+Logging to ./ppo_logs/PPO_51
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -30.8    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:50:02 - 🚀 Starting Iteration 22/100...
+Logging to ./ppo_logs/PPO_52
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -32.7    |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:50:38 - 🚀 Starting Iteration 23/100...
+Logging to ./ppo_logs/PPO_53
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -32.3    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:51:14 - 🚀 Starting Iteration 24/100...
+Logging to ./ppo_logs/PPO_54
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -34.8    |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:51:50 - 🚀 Starting Iteration 25/100...
+Logging to ./ppo_logs/PPO_55
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -37.6    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:52:26 - 🚀 Starting Iteration 26/100...
+Logging to ./ppo_logs/PPO_56
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -41.9    |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:53:02 - 🚀 Starting Iteration 27/100...
+Logging to ./ppo_logs/PPO_57
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -17      |
+| time/              |          |
+|    fps             | 89       |
+|    iterations      | 1        |
+|    time_elapsed    | 22       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:53:37 - 🚀 Starting Iteration 28/100...
+Logging to ./ppo_logs/PPO_58
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -21.5    |
+| time/              |          |
+|    fps             | 89       |
+|    iterations      | 1        |
+|    time_elapsed    | 22       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:54:12 - 🚀 Starting Iteration 29/100...
+Logging to ./ppo_logs/PPO_59
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -16.2    |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:54:47 - 🚀 Starting Iteration 30/100...
+Logging to ./ppo_logs/PPO_60
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 37.9     |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:55:22 - 🚀 Starting Iteration 31/100...
+Logging to ./ppo_logs/PPO_61
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 22.8     |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:55:58 - 🚀 Starting Iteration 32/100...
+Logging to ./ppo_logs/PPO_62
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 11.4     |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:56:34 - 🚀 Starting Iteration 33/100...
+Logging to ./ppo_logs/PPO_63
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 72.3     |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:57:10 - 🚀 Starting Iteration 34/100...
+Logging to ./ppo_logs/PPO_64
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 95.2     |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:57:46 - 🚀 Starting Iteration 35/100...
+Logging to ./ppo_logs/PPO_65
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 223      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:58:23 - 🚀 Starting Iteration 36/100...
+Logging to ./ppo_logs/PPO_66
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 138      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:58:59 - 🚀 Starting Iteration 37/100...
+Logging to ./ppo_logs/PPO_67
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 138      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 13:59:35 - 🚀 Starting Iteration 38/100...
+Logging to ./ppo_logs/PPO_68
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 154      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:00:11 - 🚀 Starting Iteration 39/100...
+Logging to ./ppo_logs/PPO_69
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 141      |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:00:46 - 🚀 Starting Iteration 40/100...
+Logging to ./ppo_logs/PPO_70
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 14.8     |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:01:22 - 🚀 Starting Iteration 41/100...
+Logging to ./ppo_logs/PPO_71
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 272      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:01:58 - 🚀 Starting Iteration 42/100...
+Logging to ./ppo_logs/PPO_72
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 233      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:02:35 - 🚀 Starting Iteration 43/100...
+Logging to ./ppo_logs/PPO_73
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 45       |
+| time/              |          |
+|    fps             | 90       |
+|    iterations      | 1        |
+|    time_elapsed    | 22       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:03:09 - 🚀 Starting Iteration 44/100...
+Logging to ./ppo_logs/PPO_74
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 359      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:03:46 - 🚀 Starting Iteration 45/100...
+Logging to ./ppo_logs/PPO_75
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 404      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:04:21 - 🚀 Starting Iteration 46/100...
+Logging to ./ppo_logs/PPO_76
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 461      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:04:57 - 🚀 Starting Iteration 47/100...
+Logging to ./ppo_logs/PPO_77
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 907      |
+|    ep_rew_mean     | 197      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:05:32 - 🚀 Starting Iteration 48/100...
+Logging to ./ppo_logs/PPO_78
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 537      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:06:07 - 🚀 Starting Iteration 49/100...
+Logging to ./ppo_logs/PPO_79
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 445      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:06:43 - 🚀 Starting Iteration 50/100...
+Logging to ./ppo_logs/PPO_80
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 306      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:07:19 - 🚀 Starting Iteration 51/100...
+Logging to ./ppo_logs/PPO_81
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 436      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:07:54 - 🚀 Starting Iteration 52/100...
+Logging to ./ppo_logs/PPO_82
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 563      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:08:30 - 🚀 Starting Iteration 53/100...
+Logging to ./ppo_logs/PPO_83
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 559      |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:09:07 - 🚀 Starting Iteration 54/100...
+Logging to ./ppo_logs/PPO_84
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 561      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:09:43 - 🚀 Starting Iteration 55/100...
+Logging to ./ppo_logs/PPO_85
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 430      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:10:19 - 🚀 Starting Iteration 56/100...
+Logging to ./ppo_logs/PPO_86
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 226      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:10:55 - 🚀 Starting Iteration 57/100...
+Logging to ./ppo_logs/PPO_87
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 949      |
+|    ep_rew_mean     | 874      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:11:31 - 🚀 Starting Iteration 58/100...
+Logging to ./ppo_logs/PPO_88
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 302      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:12:07 - 🚀 Starting Iteration 59/100...
+Logging to ./ppo_logs/PPO_89
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 372      |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:12:42 - 🚀 Starting Iteration 60/100...
+Logging to ./ppo_logs/PPO_90
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 383      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:13:17 - 🚀 Starting Iteration 61/100...
+Logging to ./ppo_logs/PPO_91
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 174      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:13:52 - 🚀 Starting Iteration 62/100...
+Logging to ./ppo_logs/PPO_92
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 341      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:14:28 - 🚀 Starting Iteration 63/100...
+Logging to ./ppo_logs/PPO_93
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 191      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:15:05 - 🚀 Starting Iteration 64/100...
+Logging to ./ppo_logs/PPO_94
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 511      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:15:41 - 🚀 Starting Iteration 65/100...
+Logging to ./ppo_logs/PPO_95
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 389      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:16:17 - 🚀 Starting Iteration 66/100...
+Logging to ./ppo_logs/PPO_96
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 327      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:16:53 - 🚀 Starting Iteration 67/100...
+Logging to ./ppo_logs/PPO_97
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 174      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:17:30 - 🚀 Starting Iteration 68/100...
+Logging to ./ppo_logs/PPO_98
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 118      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:18:07 - 🚀 Starting Iteration 69/100...
+Logging to ./ppo_logs/PPO_99
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 356      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:18:43 - 🚀 Starting Iteration 70/100...
+Logging to ./ppo_logs/PPO_100
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 312      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:19:19 - 🚀 Starting Iteration 71/100...
+Logging to ./ppo_logs/PPO_101
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 124      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:19:54 - 🚀 Starting Iteration 72/100...
+Logging to ./ppo_logs/PPO_102
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 278      |
+| time/              |          |
+|    fps             | 79       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:20:32 - 🚀 Starting Iteration 73/100...
+Logging to ./ppo_logs/PPO_103
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 138      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:21:09 - 🚀 Starting Iteration 74/100...
+Logging to ./ppo_logs/PPO_104
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 123      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:21:45 - 🚀 Starting Iteration 75/100...
+Logging to ./ppo_logs/PPO_105
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 351      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:22:21 - 🚀 Starting Iteration 76/100...
+Logging to ./ppo_logs/PPO_106
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 290      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:22:58 - 🚀 Starting Iteration 77/100...
+Logging to ./ppo_logs/PPO_107
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 391      |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:23:33 - 🚀 Starting Iteration 78/100...
+Logging to ./ppo_logs/PPO_108
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 45.3     |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:24:08 - 🚀 Starting Iteration 79/100...
+Logging to ./ppo_logs/PPO_109
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 68.4     |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:24:44 - 🚀 Starting Iteration 80/100...
+Logging to ./ppo_logs/PPO_110
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 241      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:25:20 - 🚀 Starting Iteration 81/100...
+Logging to ./ppo_logs/PPO_111
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 371      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:25:56 - 🚀 Starting Iteration 82/100...
+Logging to ./ppo_logs/PPO_112
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 518      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:26:33 - 🚀 Starting Iteration 83/100...
+Logging to ./ppo_logs/PPO_113
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 438      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:27:10 - 🚀 Starting Iteration 84/100...
+Logging to ./ppo_logs/PPO_114
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 482      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:27:46 - 🚀 Starting Iteration 85/100...
+Logging to ./ppo_logs/PPO_115
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 188      |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:28:21 - 🚀 Starting Iteration 86/100...
+Logging to ./ppo_logs/PPO_116
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 300      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:28:57 - 🚀 Starting Iteration 87/100...
+Logging to ./ppo_logs/PPO_117
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 321      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:29:33 - 🚀 Starting Iteration 88/100...
+Logging to ./ppo_logs/PPO_118
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 323      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:30:09 - 🚀 Starting Iteration 89/100...
+Logging to ./ppo_logs/PPO_119
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 777      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:30:45 - 🚀 Starting Iteration 90/100...
+Logging to ./ppo_logs/PPO_120
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 78.8     |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:31:20 - 🚀 Starting Iteration 91/100...
+Logging to ./ppo_logs/PPO_121
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 308      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:31:56 - 🚀 Starting Iteration 92/100...
+Logging to ./ppo_logs/PPO_122
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 108      |
+| time/              |          |
+|    fps             | 88       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:32:32 - 🚀 Starting Iteration 93/100...
+Logging to ./ppo_logs/PPO_123
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 23.9     |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:33:07 - 🚀 Starting Iteration 94/100...
+Logging to ./ppo_logs/PPO_124
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 278      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:33:44 - 🚀 Starting Iteration 95/100...
+Logging to ./ppo_logs/PPO_125
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 127      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:34:20 - 🚀 Starting Iteration 96/100...
+Logging to ./ppo_logs/PPO_126
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 104      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:34:55 - 🚀 Starting Iteration 97/100...
+Logging to ./ppo_logs/PPO_127
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 38.4     |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:35:33 - 🚀 Starting Iteration 98/100...
+Logging to ./ppo_logs/PPO_128
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 21       |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:36:10 - 🚀 Starting Iteration 99/100...
+Logging to ./ppo_logs/PPO_129
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 40.9     |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+2025-02-09 14:36:45 - 🚀 Starting Iteration 100/100...
+Logging to ./ppo_logs/PPO_130
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -13.6    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+"

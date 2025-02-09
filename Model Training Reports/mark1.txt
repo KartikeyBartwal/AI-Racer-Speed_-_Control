@@ -1,0 +1,53 @@
+PPO Training Documentation for CarRacing-v2
+
+Overview
+This document details the training process of a PPO agent in the CarRacing-v2 environment analyzing reward progression trends and potential improvements
+
+Training Summary
+- Environment CarRacing-v2
+- Algorithm PPO Proximal Policy Optimization
+- Iterations 100
+- Total Timesteps per Iteration 2048
+- Logging Directory ./ppo_logs/
+- Performance Metric ep_rew_mean Episode Reward Mean
+
+Interpretation of ep_rew_mean
+ep_rew_mean represents the average reward achieved per episode A higher value indicates better agent performance
+
+Progression of Rewards
+1 Early Phase Iterations 1-30
+   - Agent struggled with ep_rew_mean mostly negative or low eg -57.7 to 37.9
+   - Suggests the agent was still exploring and learning basic control
+
+2 Improvement Phase Iterations 30-50
+   - Significant jump in rewards up to 561.0
+   - Shows the agent was learning effective driving strategies
+
+3 Peak Performance Iterations 50-70
+   - Highest recorded reward 874.0
+   - Stable performance around 500-700 range indicating successful training
+
+4 Decline Phase Iterations 70-100
+   - Rewards fluctuated and dropped towards the end
+   - Final ep_rew_mean -13.6
+   - Potential causes overfitting poor exploration or instability in policy updates
+
+Maximum Possible Reward
+- In CarRacing-v2 a well-trained PPO agent can stabilize at 700+
+- Peak reward 874.0 was excellent but later declined
+
+Key Takeaways
+1 Performance peaked around iteration 50-70 but later declined
+2 Investigate instability causes
+   - Check hyperparameters learning rate entropy coefficient etc
+   - Improve reward shaping and penalty adjustments
+   - Ensure sufficient exploration avoid overfitting to early success
+   - Increase training iterations or introduce early stopping
+3 Aim for a stable range above 700 for consistent performance
+
+Next Steps
+- Analyze logs for policy entropy and action distribution
+- Tune PPO hyperparameters batch size clip ratio etc
+- Experiment with different observation action space preprocessing
+- Continue training with adjustments to maintain high rewards
+
