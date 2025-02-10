@@ -69,3 +69,9 @@ My next target is to increase the number of iterations and slowly keep improving
 32) I want to make sure that every model training is unique, and its name also includes the ep_reward_mean value. Tell me a trick to make sure every single training that I do, creates a completely new model which is saved uniquely (ensuring no training is lost) and I can see its ep_reward_mean value
 33) I trained the model with a batch size of 128, training_steps of 10000 for 100 iterations. It did not save but its logs were. I carried out some
 statistical analysis on the results of the logs to test the model's performance in each iteration. The results are in 'Model training statistical analysis.ipynb'
+34) I just tested the 798 ep_reward_mean AI model and it runs well. Here are some characteristics of the model that I have seen so far:
+a) It likes to stay at the left side of the road
+b) When it starts going really off-track, it knows how to use the brakes and the steering to come right back on track
+c) It tends to prioritize speed over accuracy in many cases
+d) If I were to give it a name, it will be: Chaotic Teenager
+Next target: do some more research and study its behavior, all of its states, how is the internal CnnPolicy with PPO working. I will be doing this for 1-2 days. Then, I will br proceeding with the experimentation of creating new AI models for the same (moving on from Chaotic Teenager)

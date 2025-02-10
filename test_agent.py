@@ -13,7 +13,7 @@ env = gym.make('CarRacing-v2', render_mode='human')
 logger.info("Environment initialized successfully.")
 
 # Load the trained model
-model_path = "trained agents/ppo_CarRacing-v2_2025-02-09_15-51-33_reward_793.29.zip"  # Replace with actual filename
+model_path = "trained agents/The_Chaotic_Teenager_2025-02-09_15-51-33_reward_793.29.zip"  # Replace with actual filename
 logger.info(f"Loading trained model from {model_path}...")
 try:
     model = PPO.load(model_path, env=env)
