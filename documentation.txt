@@ -75,3 +75,61 @@ b) When it starts going really off-track, it knows how to use the brakes and the
 c) It tends to prioritize speed over accuracy in many cases
 d) If I were to give it a name, it will be: Chaotic Teenager
 Next target: do some more research and study its behavior, all of its states, how is the internal CnnPolicy with PPO working. I will be doing this for 1-2 days. Then, I will br proceeding with the experimentation of creating new AI models for the same (moving on from Chaotic Teenager)
+35) This is my model's summary:
+
+2025-02-10 21:42:51 - ActorCriticCnnPolicy(
+  (features_extractor): NatureCNN(
+    (cnn): Sequential(
+      (0): Conv2d(3, 32, kernel_size=(8, 8), stride=(4, 4))
+      (1): ReLU()
+      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))
+      (3): ReLU()
+      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))
+      (5): ReLU()
+      (6): Flatten(start_dim=1, end_dim=-1)
+    )
+    (linear): Sequential(
+      (0): Linear(in_features=4096, out_features=512, bias=True)
+      (1): ReLU()
+    )
+  )
+  (pi_features_extractor): NatureCNN(
+    (cnn): Sequential(
+      (0): Conv2d(3, 32, kernel_size=(8, 8), stride=(4, 4))
+      (1): ReLU()
+      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))
+      (3): ReLU()
+      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))
+      (5): ReLU()
+      (6): Flatten(start_dim=1, end_dim=-1)
+    )
+    (linear): Sequential(
+      (0): Linear(in_features=4096, out_features=512, bias=True)
+      (1): ReLU()
+    )
+  )
+  (vf_features_extractor): NatureCNN(
+    (cnn): Sequential(
+      (0): Conv2d(3, 32, kernel_size=(8, 8), stride=(4, 4))
+      (1): ReLU()
+      (2): Conv2d(32, 64, kernel_size=(4, 4), stride=(2, 2))
+      (3): ReLU()
+      (4): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1))
+      (5): ReLU()
+      (6): Flatten(start_dim=1, end_dim=-1)
+    )
+    (linear): Sequential(
+      (0): Linear(in_features=4096, out_features=512, bias=True)
+      (1): ReLU()
+    )
+  )
+  (mlp_extractor): MlpExtractor(
+    (policy_net): Sequential()
+    (value_net): Sequential()
+  )
+  (action_net): Linear(in_features=512, out_features=3, bias=True)
+  (value_net): Linear(in_features=512, out_features=1, bias=True)
+)
+
+36) Just completed the report on the model's internal architecture. It has 6 million 512 thousand trainable parameters.
+37) Proceeding to mark3: will be further training the 793 ep_reward_mean model (aka The_Chaotic_Teenager) for 1000 more iterations and will save all those models which get ep_reward_mean > 800

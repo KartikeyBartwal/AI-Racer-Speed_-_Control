@@ -28,7 +28,7 @@ except Exception as e:
 
 
 # Number of iterations
-num_iterations = 100
+num_iterations = 1000
 timesteps_per_iteration = 2048
 
 logger.info(f"Starting {num_iterations} training iterations...")
@@ -46,8 +46,8 @@ for i in range(1, num_iterations + 1):
 
     logger.debug(f"ep_reward_mean: {ep_reward_mean}")
 
-    # Save the model only if ep_reward_mean exceeds 200
-    if isinstance(ep_reward_mean, (int, float)) and ep_reward_mean > 200:
+    # Save the model only if ep_reward_mean exceeds 800
+    if isinstance(ep_reward_mean, (int, float)) and ep_reward_mean > 800:
         # Generate a unique filename using timestamp and reward
         timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
         model_filename = f"ppo_CarRacing-v2_{timestamp}_reward_{ep_reward_mean:.2f}.zip"
