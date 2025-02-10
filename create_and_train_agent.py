@@ -20,7 +20,7 @@ logger.info("Initializing PPO model with CnnPolicy...")
 
 # Try to load the saved model
 try:
-    model = PPO.load("trained agents/ppo_CarRacing-v2_cnn_new", env=env)
+    model = PPO.load("trained agents/ppo_CarRacing-v2_2025-02-09_15-04-02_reward_-50.90", env = env, verbose=2, tensorboard_log="./ppo_logs", batch_size=128, n_steps=2048)
     print("✅ Loaded existing model successfully.")
 except Exception as e:
     print(f"⚠️ Failed to load saved model. Initializing new model. Error: {e}")
@@ -28,25 +28,33 @@ except Exception as e:
 
 
 # Number of iterations
-num_iterations = 1
+num_iterations = 100
 timesteps_per_iteration = 2048
 
 logger.info(f"Starting {num_iterations} training iterations...")
 
 for i in range(1, num_iterations + 1):
-    logger.info(f"🚀 Starting Iteration {i}/{num_iterations}...")
+    # Train the model and store the result
+    training_results = model.learn(total_timesteps=timesteps_per_iteration)
 
-    model.learn(total_timesteps=timesteps_per_iteration)
+    logger.debug("Training results: \n")
+    logger.debug(training_results)
+
+    # Extract mean episode reward from logs
+    ep_rewards = [ep_info["r"] for ep_info in training_results.ep_info_buffer]  # Extract rewards
+    ep_reward_mean = np.mean(ep_rewards) if ep_rewards else "unknown"  # Compute mean if available
+
+    logger.debug(f"ep_reward_mean: {ep_reward_mean}")
+
+    # Save the model only if ep_reward_mean exceeds 200
+    if isinstance(ep_reward_mean, (int, float)) and ep_reward_mean > 200:
+        # Generate a unique filename using timestamp and reward
+        timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
+        model_filename = f"ppo_CarRacing-v2_{timestamp}_reward_{ep_reward_mean:.2f}.zip"
+
+        # Save the model
+        model.save("trained agents/" + model_filename)
+        print(f"💾 Model saved as '{model_filename}'.")
 
 logger.info("🏁 Training Complete. All iterations finished.")
 
-# Extract latest episode reward mean
-ep_reward_mean = env.get_episode_rewards()[-1] if env.get_episode_rewards() else "unknown"
-
-# Generate a unique filename using timestamp and reward
-timestamp = time.strftime("%Y-%m-%d_%H-%M-%S")
-model_filename = f"ppo_CarRacing-v2_{timestamp}_reward_{ep_reward_mean:.2f}.zip"
-
-# Save the model uniquely
-model.save("trained agents/" + model_filename)
-print(f"💾 Model saved as '{model_filename}'.")

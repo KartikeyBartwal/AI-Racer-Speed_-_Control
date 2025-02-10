@@ -1367,4 +1367,1614 @@ Logging to ./ppo_logs/PPO_130
 |    time_elapsed    | 23       |
 |    total_timesteps | 2048     |
 ---------------------------------
-"
+"2025-02-09 14:56:10 - Logger initialized successfully.
+2025-02-09 14:56:10 - Initializing CarRacing-v2 environment...
+2025-02-09 14:56:10 - Environment initialized successfully.
+2025-02-09 14:56:10 - Initializing PPO model with CnnPolicy...
+2025-02-09 14:56:11 - Starting 1 training iterations...
+2025-02-09 14:58:17 - Logger initialized successfully.
+2025-02-09 14:58:17 - Initializing CarRacing-v2 environment...
+2025-02-09 14:58:17 - Environment initialized successfully.
+2025-02-09 14:58:17 - Initializing PPO model with CnnPolicy...
+2025-02-09 14:58:18 - Starting 1 training iterations...
+2025-02-09 14:59:10 - Logger initialized successfully.
+2025-02-09 14:59:10 - Initializing CarRacing-v2 environment...
+2025-02-09 14:59:10 - Environment initialized successfully.
+2025-02-09 14:59:10 - Initializing PPO model with CnnPolicy...
+2025-02-09 14:59:11 - Starting 1 training iterations...
+2025-02-09 15:00:00 - Logger initialized successfully.
+2025-02-09 15:00:00 - Initializing CarRacing-v2 environment...
+2025-02-09 15:00:00 - Environment initialized successfully.
+2025-02-09 15:00:00 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:00:01 - Starting 1 training iterations...
+2025-02-09 15:01:11 - Logger initialized successfully.
+2025-02-09 15:01:11 - Initializing CarRacing-v2 environment...
+2025-02-09 15:01:11 - Environment initialized successfully.
+2025-02-09 15:01:11 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:01:12 - Starting 1 training iterations...
+2025-02-09 15:01:44 - training results: 
+
+2025-02-09 15:01:44 - <stable_baselines3.ppo.ppo.PPO object at 0x742326f36210>
+2025-02-09 15:03:29 - Logger initialized successfully.
+2025-02-09 15:03:29 - Initializing CarRacing-v2 environment...
+2025-02-09 15:03:30 - Environment initialized successfully.
+2025-02-09 15:03:30 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:03:30 - Starting 1 training iterations...
+2025-02-09 15:04:02 - Training results: 
+
+2025-02-09 15:04:02 - <stable_baselines3.ppo.ppo.PPO object at 0x741a5e826210>
+2025-02-09 15:04:02 - ep_reward_mean: -50.8961515
+2025-02-09 15:04:02 - 🏁 Training Complete. All iterations finished.
+2025-02-09 15:04:38 - Logger initialized successfully.
+2025-02-09 15:04:38 - Initializing CarRacing-v2 environment...
+2025-02-09 15:04:38 - Environment initialized successfully.
+2025-02-09 15:04:38 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:04:39 - Starting 1 training iterations...
+2025-02-09 15:05:12 - Training results: 
+
+2025-02-09 15:05:12 - <stable_baselines3.ppo.ppo.PPO object at 0x74796774f620>
+2025-02-09 15:05:12 - ep_reward_mean: -43.2823985
+2025-02-09 15:05:12 - 🏁 Training Complete. All iterations finished.
+2025-02-09 15:08:08 - Logger initialized successfully.
+2025-02-09 15:08:08 - Initializing CarRacing-v2 environment...
+2025-02-09 15:08:09 - Environment initialized successfully.
+2025-02-09 15:08:09 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:08:10 - Starting 100 training iterations...
+2025-02-09 15:08:35 - Logger initialized successfully.
+2025-02-09 15:08:35 - Initializing CarRacing-v2 environment...
+2025-02-09 15:08:35 - Environment initialized successfully.
+2025-02-09 15:08:35 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:08:36 - Starting 100 training iterations...
+2025-02-09 15:09:19 - Logger initialized successfully.
+2025-02-09 15:09:19 - Initializing CarRacing-v2 environment...
+2025-02-09 15:09:19 - Environment initialized successfully.
+2025-02-09 15:09:19 - Initializing PPO model with CnnPolicy...
+2025-02-09 15:09:20 - Starting 100 training iterations...
+2025-02-09 15:09:52 - Training results: 
+
+2025-02-09 15:09:52 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:09:52 - ep_reward_mean: -54.010630000000006
+2025-02-09 15:10:31 - Training results: 
+
+2025-02-09 15:10:31 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:10:31 - ep_reward_mean: -44.849959
+2025-02-09 15:11:11 - Training results: 
+
+2025-02-09 15:11:11 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:11:11 - ep_reward_mean: -60.83411
+2025-02-09 15:11:50 - Training results: 
+
+2025-02-09 15:11:50 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:11:50 - ep_reward_mean: -58.8911995
+2025-02-09 15:12:28 - Training results: 
+
+2025-02-09 15:12:28 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:12:28 - ep_reward_mean: -62.370808499999995
+2025-02-09 15:13:12 - Training results: 
+
+2025-02-09 15:13:12 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:13:12 - ep_reward_mean: -61.1414905
+2025-02-09 15:13:49 - Training results: 
+
+2025-02-09 15:13:49 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:13:49 - ep_reward_mean: -60.59423150000001
+2025-02-09 15:14:27 - Training results: 
+
+2025-02-09 15:14:27 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:14:27 - ep_reward_mean: -41.9188675
+2025-02-09 15:15:03 - Training results: 
+
+2025-02-09 15:15:03 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:15:03 - ep_reward_mean: -69.77442350000001
+2025-02-09 15:15:39 - Training results: 
+
+2025-02-09 15:15:39 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:15:39 - ep_reward_mean: -47.640054
+2025-02-09 15:16:16 - Training results: 
+
+2025-02-09 15:16:16 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:16:16 - ep_reward_mean: -66.5454355
+2025-02-09 15:16:55 - Training results: 
+
+2025-02-09 15:16:55 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:16:55 - ep_reward_mean: -70.87104049999999
+2025-02-09 15:17:39 - Training results: 
+
+2025-02-09 15:17:39 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:17:39 - ep_reward_mean: -71.7381665
+2025-02-09 15:18:18 - Training results: 
+
+2025-02-09 15:18:18 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:18:18 - ep_reward_mean: -70.137723
+2025-02-09 15:18:55 - Training results: 
+
+2025-02-09 15:18:55 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:18:55 - ep_reward_mean: -57.5396825
+2025-02-09 15:19:30 - Training results: 
+
+2025-02-09 15:19:30 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:19:30 - ep_reward_mean: -61.646461
+2025-02-09 15:20:04 - Training results: 
+
+2025-02-09 15:20:04 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:20:04 - ep_reward_mean: -49.061093
+2025-02-09 15:20:40 - Training results: 
+
+2025-02-09 15:20:40 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:20:40 - ep_reward_mean: -59.99340599999999
+2025-02-09 15:21:16 - Training results: 
+
+2025-02-09 15:21:16 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:21:16 - ep_reward_mean: -57.997078
+2025-02-09 15:21:51 - Training results: 
+
+2025-02-09 15:21:51 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:21:51 - ep_reward_mean: -61.61092549999999
+2025-02-09 15:22:27 - Training results: 
+
+2025-02-09 15:22:27 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:22:27 - ep_reward_mean: -56.1396485
+2025-02-09 15:23:02 - Training results: 
+
+2025-02-09 15:23:02 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:23:02 - ep_reward_mean: -33.4252695
+2025-02-09 15:23:38 - Training results: 
+
+2025-02-09 15:23:38 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:23:38 - ep_reward_mean: -21.083275999999998
+2025-02-09 15:24:13 - Training results: 
+
+2025-02-09 15:24:13 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:24:13 - ep_reward_mean: -0.556565
+2025-02-09 15:24:48 - Training results: 
+
+2025-02-09 15:24:48 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:24:48 - ep_reward_mean: -9.065174000000003
+2025-02-09 15:25:23 - Training results: 
+
+2025-02-09 15:25:23 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:25:23 - ep_reward_mean: 6.375956500000001
+2025-02-09 15:25:57 - Training results: 
+
+2025-02-09 15:25:57 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:25:57 - ep_reward_mean: -1.5654069999999987
+2025-02-09 15:26:33 - Training results: 
+
+2025-02-09 15:26:33 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:26:33 - ep_reward_mean: 5.443432
+2025-02-09 15:27:07 - Training results: 
+
+2025-02-09 15:27:07 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:27:07 - ep_reward_mean: -1.2617159999999998
+2025-02-09 15:27:42 - Training results: 
+
+2025-02-09 15:27:42 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:27:42 - ep_reward_mean: 14.769210999999999
+2025-02-09 15:28:17 - Training results: 
+
+2025-02-09 15:28:17 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:28:17 - ep_reward_mean: 128.0699455
+2025-02-09 15:28:51 - Training results: 
+
+2025-02-09 15:28:51 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:28:51 - ep_reward_mean: 40.846512499999996
+2025-02-09 15:29:26 - Training results: 
+
+2025-02-09 15:29:26 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:29:26 - ep_reward_mean: 0.06944449999999946
+2025-02-09 15:30:01 - Training results: 
+
+2025-02-09 15:30:01 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:30:01 - ep_reward_mean: 86.347035
+2025-02-09 15:30:35 - Training results: 
+
+2025-02-09 15:30:35 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:30:35 - ep_reward_mean: 145.0034545
+2025-02-09 15:31:11 - Training results: 
+
+2025-02-09 15:31:11 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:31:11 - ep_reward_mean: 128.7742015
+2025-02-09 15:31:46 - Training results: 
+
+2025-02-09 15:31:46 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:31:46 - ep_reward_mean: 169.1425505
+2025-02-09 15:32:20 - Training results: 
+
+2025-02-09 15:32:20 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:32:20 - ep_reward_mean: 198.042929
+2025-02-09 15:32:56 - Training results: 
+
+2025-02-09 15:32:56 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:32:56 - ep_reward_mean: 68.111888
+2025-02-09 15:33:32 - Training results: 
+
+2025-02-09 15:33:32 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:33:32 - ep_reward_mean: 267.929457
+2025-02-09 15:34:07 - Training results: 
+
+2025-02-09 15:34:07 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:34:07 - ep_reward_mean: 272.753221
+2025-02-09 15:34:42 - Training results: 
+
+2025-02-09 15:34:42 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:34:42 - ep_reward_mean: 195.1283015
+2025-02-09 15:35:21 - Training results: 
+
+2025-02-09 15:35:21 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:35:21 - ep_reward_mean: 200.6047485
+2025-02-09 15:35:58 - Training results: 
+
+2025-02-09 15:35:58 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:35:58 - ep_reward_mean: 399.769519
+2025-02-09 15:36:34 - Training results: 
+
+2025-02-09 15:36:34 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:36:34 - ep_reward_mean: 258.1872885
+2025-02-09 15:37:10 - Training results: 
+
+2025-02-09 15:37:10 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:37:10 - ep_reward_mean: 178.55797700000002
+2025-02-09 15:37:46 - Training results: 
+
+2025-02-09 15:37:46 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:37:46 - ep_reward_mean: 183.7990085
+2025-02-09 15:38:22 - Training results: 
+
+2025-02-09 15:38:22 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:38:22 - ep_reward_mean: 218.219076
+2025-02-09 15:38:58 - Training results: 
+
+2025-02-09 15:38:58 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:38:58 - ep_reward_mean: 193.688283
+2025-02-09 15:39:34 - Training results: 
+
+2025-02-09 15:39:34 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:39:34 - ep_reward_mean: 364.65130750000003
+2025-02-09 15:40:10 - Training results: 
+
+2025-02-09 15:40:10 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:40:10 - ep_reward_mean: 173.4380165
+2025-02-09 15:40:46 - Training results: 
+
+2025-02-09 15:40:46 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:40:46 - ep_reward_mean: 249.81685
+2025-02-09 15:41:23 - Training results: 
+
+2025-02-09 15:41:23 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:41:23 - ep_reward_mean: 352.20191150000005
+2025-02-09 15:41:59 - Training results: 
+
+2025-02-09 15:41:59 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:41:59 - ep_reward_mean: 501.9796325
+2025-02-09 15:42:35 - Training results: 
+
+2025-02-09 15:42:35 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:42:35 - ep_reward_mean: 313.2589435
+2025-02-09 15:43:11 - Training results: 
+
+2025-02-09 15:43:11 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:43:11 - ep_reward_mean: 211.76470600000002
+2025-02-09 15:43:47 - Training results: 
+
+2025-02-09 15:43:47 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:43:47 - ep_reward_mean: 289.283504
+2025-02-09 15:44:23 - Training results: 
+
+2025-02-09 15:44:23 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:44:23 - ep_reward_mean: 442.857143
+2025-02-09 15:44:59 - Training results: 
+
+2025-02-09 15:44:59 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:44:59 - ep_reward_mean: 370.5263585
+2025-02-09 15:45:35 - Training results: 
+
+2025-02-09 15:45:35 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:45:35 - ep_reward_mean: 403.0343595
+2025-02-09 15:46:11 - Training results: 
+
+2025-02-09 15:46:11 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:46:11 - ep_reward_mean: 587.347614
+2025-02-09 15:46:47 - Training results: 
+
+2025-02-09 15:46:47 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:46:47 - ep_reward_mean: 345.4218975
+2025-02-09 15:47:23 - Training results: 
+
+2025-02-09 15:47:23 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:47:23 - ep_reward_mean: 102.42880199999999
+2025-02-09 15:47:58 - Training results: 
+
+2025-02-09 15:47:58 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:47:58 - ep_reward_mean: 277.9131355
+2025-02-09 15:48:33 - Training results: 
+
+2025-02-09 15:48:33 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:48:33 - ep_reward_mean: 264.909519
+2025-02-09 15:49:09 - Training results: 
+
+2025-02-09 15:49:09 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:49:09 - ep_reward_mean: 277.638889
+2025-02-09 15:49:45 - Training results: 
+
+2025-02-09 15:49:45 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:49:45 - ep_reward_mean: 311.8172025
+2025-02-09 15:50:21 - Training results: 
+
+2025-02-09 15:50:21 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:50:21 - ep_reward_mean: 572.7593870000001
+2025-02-09 15:50:57 - Training results: 
+
+2025-02-09 15:50:57 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:50:57 - ep_reward_mean: 779.3706295
+2025-02-09 15:51:33 - Training results: 
+
+2025-02-09 15:51:33 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:51:33 - ep_reward_mean: 793.291825
+2025-02-09 15:52:09 - Training results: 
+
+2025-02-09 15:52:09 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:52:09 - ep_reward_mean: 630.4217229999999
+2025-02-09 15:52:46 - Training results: 
+
+2025-02-09 15:52:46 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:52:46 - ep_reward_mean: 673.0991055
+2025-02-09 15:53:22 - Training results: 
+
+2025-02-09 15:53:22 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:53:22 - ep_reward_mean: 370.120055
+2025-02-09 15:53:57 - Training results: 
+
+2025-02-09 15:53:57 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:53:57 - ep_reward_mean: 424.5196105
+2025-02-09 15:54:34 - Training results: 
+
+2025-02-09 15:54:34 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:54:34 - ep_reward_mean: 304.3380775
+2025-02-09 15:55:26 - Training results: 
+
+2025-02-09 15:55:26 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:55:26 - ep_reward_mean: 655.406195
+2025-02-09 15:56:16 - Training results: 
+
+2025-02-09 15:56:16 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:56:16 - ep_reward_mean: 332.9214475
+2025-02-09 15:57:02 - Training results: 
+
+2025-02-09 15:57:02 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:57:02 - ep_reward_mean: 427.21061549999996
+2025-02-09 15:57:47 - Training results: 
+
+2025-02-09 15:57:47 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:57:47 - ep_reward_mean: 176.65966600000002
+2025-02-09 15:58:31 - Training results: 
+
+2025-02-09 15:58:31 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:58:31 - ep_reward_mean: 229.05420650000002
+2025-02-09 15:59:07 - Training results: 
+
+2025-02-09 15:59:07 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:59:07 - ep_reward_mean: 287.3452125
+2025-02-09 15:59:43 - Training results: 
+
+2025-02-09 15:59:43 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 15:59:43 - ep_reward_mean: 301.6704035
+2025-02-09 16:00:25 - Training results: 
+
+2025-02-09 16:00:25 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:00:25 - ep_reward_mean: 59.018786500000004
+2025-02-09 16:01:14 - Training results: 
+
+2025-02-09 16:01:14 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:01:14 - ep_reward_mean: 367.224777
+2025-02-09 16:01:58 - Training results: 
+
+2025-02-09 16:01:58 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:01:58 - ep_reward_mean: 205.002797
+2025-02-09 16:02:41 - Training results: 
+
+2025-02-09 16:02:41 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:02:41 - ep_reward_mean: 189.216546
+2025-02-09 16:03:26 - Training results: 
+
+2025-02-09 16:03:26 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:03:26 - ep_reward_mean: 309.8286845
+2025-02-09 16:04:11 - Training results: 
+
+2025-02-09 16:04:11 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:04:11 - ep_reward_mean: 95.837369
+2025-02-09 16:04:55 - Training results: 
+
+2025-02-09 16:04:55 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:04:55 - ep_reward_mean: 242.092118
+2025-02-09 16:05:39 - Training results: 
+
+2025-02-09 16:05:39 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:05:39 - ep_reward_mean: 311.9082275
+2025-02-09 16:06:23 - Training results: 
+
+2025-02-09 16:06:23 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:06:23 - ep_reward_mean: 233.1372955
+2025-02-09 16:07:07 - Training results: 
+
+2025-02-09 16:07:07 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:07:07 - ep_reward_mean: 198.15558700000003
+2025-02-09 16:07:51 - Training results: 
+
+2025-02-09 16:07:51 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:07:51 - ep_reward_mean: 153.657006
+2025-02-09 16:08:36 - Training results: 
+
+2025-02-09 16:08:36 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:08:36 - ep_reward_mean: 102.81629649999999
+2025-02-09 16:09:22 - Training results: 
+
+2025-02-09 16:09:22 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:09:22 - ep_reward_mean: 352.5629495
+2025-02-09 16:10:02 - Training results: 
+
+2025-02-09 16:10:02 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:10:02 - ep_reward_mean: 157.587945
+2025-02-09 16:10:40 - Training results: 
+
+2025-02-09 16:10:40 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:10:40 - ep_reward_mean: 344.2728805
+2025-02-09 16:11:24 - Training results: 
+
+2025-02-09 16:11:24 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:11:24 - ep_reward_mean: 234.867445
+2025-02-09 16:12:13 - Training results: 
+
+2025-02-09 16:12:13 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:12:13 - ep_reward_mean: 95.5424585
+2025-02-09 16:12:52 - Training results: 
+
+2025-02-09 16:12:52 - <stable_baselines3.ppo.ppo.PPO object at 0x7deafce64860>
+2025-02-09 16:12:52 - ep_reward_mean: 418.08674799999994
+2025-02-09 16:12:52 - 🏁 Training Complete. All iterations finished.
+Logging to ./ppo_logs/PPO_138
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -54      |
+| time/              |          |
+|    fps             | 97       |
+|    iterations      | 1        |
+|    time_elapsed    | 21       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_139
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -44.8    |
+| time/              |          |
+|    fps             | 76       |
+|    iterations      | 1        |
+|    time_elapsed    | 26       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_140
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -60.8    |
+| time/              |          |
+|    fps             | 73       |
+|    iterations      | 1        |
+|    time_elapsed    | 27       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_141
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -58.9    |
+| time/              |          |
+|    fps             | 77       |
+|    iterations      | 1        |
+|    time_elapsed    | 26       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_142
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -62.4    |
+| time/              |          |
+|    fps             | 79       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_143
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -61.1    |
+| time/              |          |
+|    fps             | 67       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_144
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -60.6    |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_145
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -41.9    |
+| time/              |          |
+|    fps             | 77       |
+|    iterations      | 1        |
+|    time_elapsed    | 26       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_146
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -69.8    |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_147
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -47.6    |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_148
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -66.5    |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_149
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -70.9    |
+| time/              |          |
+|    fps             | 77       |
+|    iterations      | 1        |
+|    time_elapsed    | 26       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_150
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -71.7    |
+| time/              |          |
+|    fps             | 70       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_151
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -70.1    |
+| time/              |          |
+|    fps             | 75       |
+|    iterations      | 1        |
+|    time_elapsed    | 27       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_152
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -57.5    |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_153
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -61.6    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_154
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -49.1    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_155
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -60      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_156
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -58      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_157
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -61.6    |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_158
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -56.1    |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_159
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -33.4    |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_160
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -21.1    |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_161
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -0.557   |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_162
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -9.07    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_163
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 6.38     |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_164
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -1.57    |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_165
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 5.44     |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_166
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | -1.26    |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_167
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 14.8     |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_168
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 128      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_169
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 40.8     |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_170
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 0.0694   |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_171
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 86.3     |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_172
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 145      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_173
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 129      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_174
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 169      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_175
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 198      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_176
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 68.1     |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_177
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 268      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-33-32_reward_267.93.zip'.
+Logging to ./ppo_logs/PPO_178
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 273      |
+| time/              |          |
+|    fps             | 87       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-34-07_reward_272.75.zip'.
+Logging to ./ppo_logs/PPO_179
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 195      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_180
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 201      |
+| time/              |          |
+|    fps             | 73       |
+|    iterations      | 1        |
+|    time_elapsed    | 27       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-35-21_reward_200.60.zip'.
+Logging to ./ppo_logs/PPO_181
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 400      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-35-58_reward_399.77.zip'.
+Logging to ./ppo_logs/PPO_182
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 258      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-36-34_reward_258.19.zip'.
+Logging to ./ppo_logs/PPO_183
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 179      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_184
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 184      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_185
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 218      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-38-22_reward_218.22.zip'.
+Logging to ./ppo_logs/PPO_186
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 194      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_187
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 365      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-39-34_reward_364.65.zip'.
+Logging to ./ppo_logs/PPO_188
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 173      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_189
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 250      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-40-46_reward_249.82.zip'.
+Logging to ./ppo_logs/PPO_190
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 352      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-41-23_reward_352.20.zip'.
+Logging to ./ppo_logs/PPO_191
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 502      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-41-59_reward_501.98.zip'.
+Logging to ./ppo_logs/PPO_192
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 313      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-42-35_reward_313.26.zip'.
+Logging to ./ppo_logs/PPO_193
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 212      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-43-11_reward_211.76.zip'.
+Logging to ./ppo_logs/PPO_194
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 289      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-43-47_reward_289.28.zip'.
+Logging to ./ppo_logs/PPO_195
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 443      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-44-23_reward_442.86.zip'.
+Logging to ./ppo_logs/PPO_196
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 371      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-44-59_reward_370.53.zip'.
+Logging to ./ppo_logs/PPO_197
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 403      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-45-35_reward_403.03.zip'.
+Logging to ./ppo_logs/PPO_198
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 587      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-46-11_reward_587.35.zip'.
+Logging to ./ppo_logs/PPO_199
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 345      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-46-47_reward_345.42.zip'.
+Logging to ./ppo_logs/PPO_200
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 927      |
+|    ep_rew_mean     | 102      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_201
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 278      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-47-58_reward_277.91.zip'.
+Logging to ./ppo_logs/PPO_202
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 860      |
+|    ep_rew_mean     | 265      |
+| time/              |          |
+|    fps             | 84       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-48-33_reward_264.91.zip'.
+Logging to ./ppo_logs/PPO_203
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 278      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-49-09_reward_277.64.zip'.
+Logging to ./ppo_logs/PPO_204
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 312      |
+| time/              |          |
+|    fps             | 85       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-49-45_reward_311.82.zip'.
+Logging to ./ppo_logs/PPO_205
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 573      |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-50-21_reward_572.76.zip'.
+Logging to ./ppo_logs/PPO_206
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 779      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-50-57_reward_779.37.zip'.
+Logging to ./ppo_logs/PPO_207
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 793      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-51-33_reward_793.29.zip'.
+Logging to ./ppo_logs/PPO_208
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 630      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-52-09_reward_630.42.zip'.
+Logging to ./ppo_logs/PPO_209
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 673      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-52-46_reward_673.10.zip'.
+Logging to ./ppo_logs/PPO_210
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 910      |
+|    ep_rew_mean     | 370      |
+| time/              |          |
+|    fps             | 83       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-53-22_reward_370.12.zip'.
+Logging to ./ppo_logs/PPO_211
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 425      |
+| time/              |          |
+|    fps             | 86       |
+|    iterations      | 1        |
+|    time_elapsed    | 23       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-53-57_reward_424.52.zip'.
+Logging to ./ppo_logs/PPO_212
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 968      |
+|    ep_rew_mean     | 304      |
+| time/              |          |
+|    fps             | 80       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-54-34_reward_304.34.zip'.
+Logging to ./ppo_logs/PPO_213
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 655      |
+| time/              |          |
+|    fps             | 59       |
+|    iterations      | 1        |
+|    time_elapsed    | 34       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-55-26_reward_655.41.zip'.
+Logging to ./ppo_logs/PPO_214
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 333      |
+| time/              |          |
+|    fps             | 60       |
+|    iterations      | 1        |
+|    time_elapsed    | 33       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-56-16_reward_332.92.zip'.
+Logging to ./ppo_logs/PPO_215
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 427      |
+| time/              |          |
+|    fps             | 66       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-57-02_reward_427.21.zip'.
+Logging to ./ppo_logs/PPO_216
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 986      |
+|    ep_rew_mean     | 177      |
+| time/              |          |
+|    fps             | 67       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_217
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 229      |
+| time/              |          |
+|    fps             | 69       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-58-31_reward_229.05.zip'.
+Logging to ./ppo_logs/PPO_218
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 287      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-59-07_reward_287.35.zip'.
+Logging to ./ppo_logs/PPO_219
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 302      |
+| time/              |          |
+|    fps             | 82       |
+|    iterations      | 1        |
+|    time_elapsed    | 24       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_15-59-43_reward_301.67.zip'.
+Logging to ./ppo_logs/PPO_220
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 59       |
+| time/              |          |
+|    fps             | 76       |
+|    iterations      | 1        |
+|    time_elapsed    | 26       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_221
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 367      |
+| time/              |          |
+|    fps             | 60       |
+|    iterations      | 1        |
+|    time_elapsed    | 33       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-01-14_reward_367.22.zip'.
+Logging to ./ppo_logs/PPO_222
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 205      |
+| time/              |          |
+|    fps             | 68       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-01-58_reward_205.00.zip'.
+Logging to ./ppo_logs/PPO_223
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 189      |
+| time/              |          |
+|    fps             | 69       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_224
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 310      |
+| time/              |          |
+|    fps             | 68       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-03-26_reward_309.83.zip'.
+Logging to ./ppo_logs/PPO_225
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 95.8     |
+| time/              |          |
+|    fps             | 66       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_226
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 242      |
+| time/              |          |
+|    fps             | 69       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-04-55_reward_242.09.zip'.
+Logging to ./ppo_logs/PPO_227
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 312      |
+| time/              |          |
+|    fps             | 66       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-05-39_reward_311.91.zip'.
+Logging to ./ppo_logs/PPO_228
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 233      |
+| time/              |          |
+|    fps             | 68       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-06-23_reward_233.14.zip'.
+Logging to ./ppo_logs/PPO_229
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 198      |
+| time/              |          |
+|    fps             | 68       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_230
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 154      |
+| time/              |          |
+|    fps             | 70       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_231
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 103      |
+| time/              |          |
+|    fps             | 68       |
+|    iterations      | 1        |
+|    time_elapsed    | 29       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_232
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 353      |
+| time/              |          |
+|    fps             | 66       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-09-22_reward_352.56.zip'.
+Logging to ./ppo_logs/PPO_233
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 158      |
+| time/              |          |
+|    fps             | 72       |
+|    iterations      | 1        |
+|    time_elapsed    | 28       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_234
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 344      |
+| time/              |          |
+|    fps             | 81       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-10-40_reward_344.27.zip'.
+Logging to ./ppo_logs/PPO_235
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 235      |
+| time/              |          |
+|    fps             | 67       |
+|    iterations      | 1        |
+|    time_elapsed    | 30       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-11-24_reward_234.87.zip'.
+Logging to ./ppo_logs/PPO_236
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 95.5     |
+| time/              |          |
+|    fps             | 62       |
+|    iterations      | 1        |
+|    time_elapsed    | 32       |
+|    total_timesteps | 2048     |
+---------------------------------
+Logging to ./ppo_logs/PPO_237
+---------------------------------
+| rollout/           |          |
+|    ep_len_mean     | 1e+03    |
+|    ep_rew_mean     | 418      |
+| time/              |          |
+|    fps             | 79       |
+|    iterations      | 1        |
+|    time_elapsed    | 25       |
+|    total_timesteps | 2048     |
+---------------------------------
+💾 Model saved as 'ppo_CarRacing-v2_2025-02-09_16-12-52_reward_418.09.zip'.
+2025-02-09 16:12:52 - 🏁 Training Complete. All iterations finished.

@@ -1,0 +1,68 @@
+# PPO Model Training Documentation (Second Model Training Session)
+
+## 1. Overview
+This document outlines the training process for the second reinforcement learning model trained using Proximal Policy Optimization (PPO) on the CarRacing-v2 environment from OpenAI Gym. This training session incorporated enhanced logging, improved tracking of rewards, and a refined saving mechanism for trained models.
+
+---
+
+## 2. Training Environment
+- Environment Used: CarRacing-v2
+- Observation Space: Images (RGB, 96x96)
+- Action Space: Continuous Steering, Acceleration, and Brake
+- Rendering Mode: Default (No rendering during training)
+- Gym Version: Latest Stable Release
+
+---
+
+## 3. Model Details
+- Algorithm Used: PPO (Proximal Policy Optimization)
+- Policy Type: CNN-based (CnnPolicy)
+- Batch Size: 128
+- Steps per Update (n_steps): 2048
+- TensorBoard Logging: Enabled (./ppo_logs)
+- Training Iterations: 100
+- Timesteps per Iteration: 2048
+- Model Saving Threshold: ep_reward_mean > 200
+
+---
+
+## 4. Training Process
+
+### 4.1 Initialization
+1. Logger Setup:
+   - A custom logger was initialized to capture training progress.
+   - Key events such as model loading, training start, and completion were logged.
+2. Environment Initialization:
+   - CarRacing-v2 environment was created.
+3. Model Loading:
+   - Attempted to load a previously trained model.
+   - If no model was found, a new PPO model was initialized.
+
+### 4.2 Training Loop
+- The model was trained iteratively for 100 iterations.
+- After each training cycle, the mean episode reward was extracted from the logs.
+- If ep_reward_mean > 200, the model was saved with a unique filename based on the timestamp and reward.
+- All training results were logged for tracking performance.
+
+### 4.3 Key Improvements Over First Training Session
+- Fixed reward extraction method: Used ep_info_buffer correctly to avoid deque errors.
+- Enhanced logging:
+  - Captured training_results after each iteration.
+  - Logged the mean episode reward for better visibility.
+  - Provided debug-level logs for deeper insights.
+- Automated model saving:
+  - Only saved models when performance exceeded a meaningful threshold.
+  - Added timestamp and reward value in filenames for better organization.
+
+---
+
+## 5. Training Results
+
+### 5.1 Key Performance Metrics
+- Best Episode Reward Achieved: 793
+- Final Model Saved: Yes
+- Final Reward at Model Saving: 205.00
+- Training Stability: Improved from the first session, higher reward consistency.
+
+### 5.2 Model Filename (Saved Model)
+- ppo_CarRacing-v2_2025-02-09_16-01-58_reward_205.00.zip
