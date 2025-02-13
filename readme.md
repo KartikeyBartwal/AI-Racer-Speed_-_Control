@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/5fa93ce7-8033-4301-be36-cd742d83ac8a
+
+
 1. **Environment Simulation Development:**  
    - **Framework & Dynamics:** Develop a simulation environment using the OpenAI Gym interface, ensuring that the environment accurately models real-world physics. This involves defining the state space, action space, and incorporating realistic dynamics and constraints that mimic physical laws.
    - **State and Action Specification:** Explicitly specify the state variables (e.g., position, velocity, sensor readings) and the available actions (e.g., control inputs, actuation commands). The simulation also includes stochastic elements if needed to capture real-world uncertainties.
@@ -15,4 +19,148 @@
 4. **Iterative Training Process:**  
    - **Episode-Based Training:** Structure the training into episodes, each consisting of a sequence of state-action-reward transitions. Performance is evaluated based on the cumulative reward achieved over each episode.
    - **Stabilization Techniques:** Incorporate techniques such as experience replay, target networks, or entropy regularization to stabilize learning, prevent divergence, and improve sample efficiency.
-   - **Convergence and Performance Metrics:** Continuously monitor performance metrics (e.g., average cumulative reward, loss function convergence) to determine when the policy reaches a satisfactory level of performance. Training is terminated once these metrics meet predefined criteria, or further improvements are marginal.
+   - **Convergence and Performance Metrics:** Continuously monitor performance metrics (e.g., average cumulative reward, loss function convergence) to determine when the policy reaches a satisfactory level of performance. Training is terminated once these metrics meet predefined criteria, or further improvements are marginal.](https://github.com/user-attachments/assets/5a8ab023-fc63-498d-99c5-41289b079d25
+
+# RHCL Project
+
+## Overview
+The RHCL Project focuses on developing and training a reinforcement learning model using **Proximal Policy Optimization (PPO)** on the `CarRacing-v2` environment. The objective is to train an AI agent capable of optimizing driving strategies, improving its racing performance through reinforcement learning.
+
+## Features
+- **Deep Reinforcement Learning with PPO**
+- **CNN-based Policy for Image Processing**
+- **Efficient Model Saving and Logging**
+- **Performance Optimization and Debugging Enhancements**
+- **Visualization and Real-Time Monitoring**
+
+## Model Training Process
+### 1. **Environment Setup**
+- Uses **OpenAI Gym's `CarRacing-v2`** environment.
+- Observations processed using **Convolutional Neural Networks (CNNs)**.
+
+### 2. **Training Parameters**
+- **Algorithm**: PPO (Proximal Policy Optimization)
+- **Policy**: `CnnPolicy`
+- **Batch Size**: `128`
+- **Timesteps per Iteration**: `2048`
+- **Total Training Timesteps**: `200000+`
+
+### 3. **Key Training Enhancements**
+- **Reward Tracking Fixes**: Improved consistency in reward extraction.
+- **Optimized Model Saving**: Avoids excessive disk usage by saving only high-performing models.
+- **Logging Improvements**: Better monitoring with timestamps and structured logs.
+- **Debugging Support**: Introduced debug-level logs for deeper insights.
+
+## Results & Performance
+- **Best Episode Reward Achieved**: `793`
+- **Final Saved Model Reward**: `205.00`
+- **Model Characteristics**:
+  - Prefers the left side of the track.
+  - Uses braking and steering effectively to recover.
+  - Prioritizes speed over accuracy in many cases.
+
+## How to Use
+### 1. **Training the Model**
+Run the training script to train the model:
+```bash
+python train.py
+```
+
+### 2. **Testing the Model**
+Load and test a trained model:
+```bash
+python test.py --model_path path/to/saved_model.zip
+```
+
+### 3. **Visualizing Performance**
+Enable rendering mode for real-time visualization:
+```python
+env = gym.make("CarRacing-v2", render_mode='human')
+```
+
+## Future Improvements
+- **Further Hyperparameter Tuning**
+- **Extended Training Durations**
+- **Advanced Reward Shaping** for smoother driving
+- **Experimenting with Alternative RL Algorithms** (e.g., SAC, TD3)
+- **Custom Evaluation Metrics** for better tracking
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+## License
+This project is licensed under the **MIT License**.
+
+🚀 Happy Racing! 🚀)](https://github.com/user-attachments/assets/5a8ab023-fc63-498d-99c5-41289b079d25
+
+# RHCL Project
+
+## Overview
+The RHCL Project focuses on developing and training a reinforcement learning model using **Proximal Policy Optimization (PPO)** on the `CarRacing-v2` environment. The objective is to train an AI agent capable of optimizing driving strategies, improving its racing performance through reinforcement learning.
+
+## Features
+- **Deep Reinforcement Learning with PPO**
+- **CNN-based Policy for Image Processing**
+- **Efficient Model Saving and Logging**
+- **Performance Optimization and Debugging Enhancements**
+- **Visualization and Real-Time Monitoring**
+
+## Model Training Process
+### 1. **Environment Setup**
+- Uses **OpenAI Gym's `CarRacing-v2`** environment.
+- Observations processed using **Convolutional Neural Networks (CNNs)**.
+
+### 2. **Training Parameters**
+- **Algorithm**: PPO (Proximal Policy Optimization)
+- **Policy**: `CnnPolicy`
+- **Batch Size**: `128`
+- **Timesteps per Iteration**: `2048`
+- **Total Training Timesteps**: `200000+`
+
+### 3. **Key Training Enhancements**
+- **Reward Tracking Fixes**: Improved consistency in reward extraction.
+- **Optimized Model Saving**: Avoids excessive disk usage by saving only high-performing models.
+- **Logging Improvements**: Better monitoring with timestamps and structured logs.
+- **Debugging Support**: Introduced debug-level logs for deeper insights.
+
+## Results & Performance
+- **Best Episode Reward Achieved**: `793`
+- **Final Saved Model Reward**: `205.00`
+- **Model Characteristics**:
+  - Prefers the left side of the track.
+  - Uses braking and steering effectively to recover.
+  - Prioritizes speed over accuracy in many cases.
+
+## How to Use
+### 1. **Training the Model**
+Run the training script to train the model:
+```bash
+python train.py
+```
+
+### 2. **Testing the Model**
+Load and test a trained model:
+```bash
+python test.py --model_path path/to/saved_model.zip
+```
+
+### 3. **Visualizing Performance**
+Enable rendering mode for real-time visualization:
+```python
+env = gym.make("CarRacing-v2", render_mode='human')
+```
+
+## Future Improvements
+- **Further Hyperparameter Tuning**
+- **Extended Training Durations**
+- **Advanced Reward Shaping** for smoother driving
+- **Experimenting with Alternative RL Algorithms** (e.g., SAC, TD3)
+- **Custom Evaluation Metrics** for better tracking
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+## License
+This project is licensed under the **MIT License**.
+
+🚀 Happy Racing! 🚀)
